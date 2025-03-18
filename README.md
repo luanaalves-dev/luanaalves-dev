@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Luana</h1>
-<h3 align="center">💻 Developer | 🎨 Designer</h3>
+<h1 align="left">Hi there 👋, I'm Luana</h1>
+<h3 align="left">💻 Developer | 🎨 Designer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luanaalves-dev&show_icons=true&rank_icon=github&theme=aura" />
 </p>
 
